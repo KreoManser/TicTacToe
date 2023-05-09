@@ -12,9 +12,12 @@
 
 **Скрины экранов** 
 
-<img src="https://github.com/KreoManser/TicTacToe/blob/main/ResourcesForRepository/MainScreen.png?raw=true" alt="Основной экран на старте" width="160" height="330" /> 
-<img src="https://github.com/KreoManser/TicTacToe/blob/main/ResourcesForRepository/MainScreen_selected.png?raw=true" alt="Основной экран с выбранной позицией" width="160" height="330" /> 
-<img src="https://github.com/KreoManser/TicTacToe/blob/main/ResourcesForRepository/GameScreen.png?raw=true" alt="Экран игры после нажатия кнопки "Начать"" width="160" height="330" />
+<p float="left">
+  <img src="https://github.com/KreoManser/TicTacToe/blob/main/ResourcesForRepository/MainScreen.png?raw=true" alt="Основной экран на старте" width="160" height="330" />
+  <img src="https://github.com/KreoManser/TicTacToe/blob/main/ResourcesForRepository/MainScreen_selected.png?raw=true" alt="Основной экран с выбранной позицией" width="160" height="330" />
+  <img src="https://github.com/KreoManser/TicTacToe/blob/main/ResourcesForRepository/GameScreen.png?raw=true" alt="Экран игры после нажатия кнопки 'Начать'" width="160" height="330" />
+</p>
+
 
 
 **Детали** 
